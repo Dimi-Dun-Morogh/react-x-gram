@@ -1,0 +1,7 @@
+.user-profile {
+  display: flex;
+  flex-direction: column;
+}
+.user-profile span {
+  display: block;
+}
